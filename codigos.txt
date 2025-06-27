@@ -1,0 +1,5 @@
+npm run dev
+
+.\venv\Scripts\Activate
+
+python scripts/backend_enhanced_v3_fixed.py
